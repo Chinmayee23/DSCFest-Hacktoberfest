@@ -1,9 +1,10 @@
-### Tsec Contribution 
-Akanksha Bhasin<br>
-Divyansh Chaurasia<br>
-Vanshika Gurbani<br/>
-Farhan Kapadia<br/>
-Harsh Kapadia <br/>
-Mohit S Punjabi <br/>
-DSC Vivekanand <br/>
-Chinmayee Kinage Vivekanand<br/>
+Tsec Contribution
+Akanksha Bhasin
+Divyansh Chaurasia
+Vanshika Gurbani
+Farhan Kapadia
+Harsh Kapadia
+Mohit S Punjabi
+DSC Vivekanand
+Smith Gajjar Vivekanand
+Chinmayee Kinage Vivekanand <br/>
